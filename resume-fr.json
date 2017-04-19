@@ -1,0 +1,178 @@
+{
+  "profil": {
+    "name": "Julien Usson",
+    "description": "Développeur Web Full Stack\nClermont-Ferrand, Françe\n#Java #JavaScript #Angular #Ionic #VueJS #React"
+  },
+  "experiences": [
+    {
+      "title": "Freelance",
+      "experiences": [
+        {
+          "date": "Juillet 2015 - Août 2016",
+          "title": "Création d’une application web de gestion de camions pour Tapir, Clermont-Ferrrand",
+          "skills": [
+            "PHP5",
+            "CodeIgniter",
+            "AngularJS",
+            "Bootstrap"
+          ]
+        },
+        {
+          "date": "Mai 2015 - Août 2016",
+          "title": "Création d’une application web de gestion de projet pour Biose, Clermont-Ferrand",
+          "skills": [
+            "PHP5",
+            "CodeIgniter",
+            "JQuery",
+            "AngularJS",
+            "Bootstrap"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Emploi",
+      "experiences": [
+        {
+          "date": "Septembre 2016 - Septembre 2017",
+          "title": "Développeur d'application web et mobile en alternace à CGI, Clermont-Ferrand",
+          "skills": [
+            "Groovy",
+            "Grails",
+            "Javascript",
+            "Ionic",
+            "Angular"
+          ]
+        },
+        {
+          "date": "Juillet 2014 - Août 2014",
+          "title": "Développeur Java à l’institut de médecine du travail de Clermont-Ferrand",
+          "skills": [
+            "Java",
+            "Swing",
+            "XML"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Stage",
+      "experiences": [
+        {
+          "date": "Avril 2016 - Août 2016",
+          "title": "Développeur JEE à Worldline, Villeurbanne",
+          "skills": [
+            "Java",
+            "Spring",
+            "Tapestry",
+            "SQL",
+            "Hibernate"
+          ]
+        },
+        {
+          "date": "Avril 2014 - Juin 2014",
+          "title": "Développeur Java à l’institut de médecine du travail de Clermont-Ferrand",
+          "skills": [
+            "Java",
+            "Swing",
+            "XML"
+          ]
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "title": "Diplôme d’ingénieur de l’ISIMA en informatique, option réseaux et sécurité, Clermont-Ferrand",
+      "date": 2017
+    },
+    {
+      "title": "Diplôme universitaire de technologie en informatique, option génie logiciel, Clermont-Ferrand",
+      "date": 2014
+    },
+    {
+      "title": "Baccalauréat Scientifique mention assez bien au lycée Sévigné Saint-Louis d’Issoire",
+      "date": 2012
+    }
+  ],
+  "skills": [
+    {
+      "title": "Technologies Web",
+      "skills": [
+        {
+          "label": "Java/JEE",
+          "description": "Grails, Tapestry, Spring, Hibernate",
+          "value": 80
+        },
+        {
+          "label": "PHP5",
+          "description": "CodeIgniter",
+          "value": 75
+        },
+        {
+          "label": "NodeJS",
+          "value": 25
+        },
+        {
+          "label": "SQL",
+          "description": "MySQL, Oracle",
+          "value": 80
+        },
+        {
+          "label": "HTML5/CSS3/SASS",
+          "description": "Bootstrap",
+          "value": 70
+        },
+        {
+          "label": "JavaScript/ES6",
+          "description": "JQuery, AngularJS, VueJS, ReactJS",
+          "value": 70
+        }
+      ]
+    },
+    {
+      "title": "Systèmes d'exploitation",
+      "skills": [
+        {
+          "label": "Windows",
+          "value": 60
+        },
+        {
+          "label": "Linux",
+          "description": "Debian, Raspbian",
+          "value": 80
+        }
+      ]
+    },
+    {
+      "title": "Langues",
+      "skills": [
+        {
+          "label": "Anglais",
+          "description": "TOEIC 880pts",
+          "value": 80
+        }
+      ]
+    }
+  ],
+  "hobbies": [
+    {
+      "title": "Nouvelles technologies",
+      "description": "Technologies Web, Raspberry Pi"
+    },
+    {
+      "title": "Musique Metal",
+      "description": "Musique, concerts, festivals"
+    },
+    {
+      "title": "Jeux",
+      "description": "Bowling, Billard, Laser Game, Airsoft, ..."
+    }
+  ],
+  "contact": {
+    "mail": "usson.julien@gmail.com",
+    "twitter": "https://twitter.com/JulienUsson",
+    "github": "https://github.com/JulienUsson",
+    "linkedin": "https://www.linkedin.com/in/julien-usson-64bbbb107"
+  }
+}
