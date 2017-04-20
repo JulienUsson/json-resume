@@ -6,7 +6,7 @@
   "experiences": [
     {
       "title": "Freelance",
-      "experiences": [
+      "items": [
         {
           "date": "Juillet 2015 - Août 2016",
           "title": "Création d’une application web de gestion de camions pour Tapir, Clermont-Ferrrand",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Emploi",
-      "experiences": [
+      "items": [
         {
           "date": "Septembre 2016 - Septembre 2017",
           "title": "Développeur d'application web et mobile en alternace à CGI, Clermont-Ferrand",
@@ -57,7 +57,7 @@
     },
     {
       "title": "Stage",
-      "experiences": [
+      "items": [
         {
           "date": "Avril 2016 - Août 2016",
           "title": "Développeur JEE à Worldline, Villeurbanne",
@@ -98,33 +98,33 @@
   "skills": [
     {
       "title": "Technologies Web",
-      "skills": [
+      "items": [
         {
-          "label": "Java/JEE",
+          "title": "Java/JEE",
           "description": "Grails, Tapestry, Spring, Hibernate",
           "value": 80
         },
         {
-          "label": "PHP5",
+          "title": "PHP5",
           "description": "CodeIgniter",
           "value": 75
         },
         {
-          "label": "NodeJS",
+          "title": "NodeJS",
           "value": 25
         },
         {
-          "label": "SQL",
+          "title": "SQL",
           "description": "MySQL, Oracle",
           "value": 80
         },
         {
-          "label": "HTML5/CSS3/SASS",
+          "title": "HTML5/CSS3/SASS",
           "description": "Bootstrap",
           "value": 70
         },
         {
-          "label": "JavaScript/ES6",
+          "title": "JavaScript/ES6",
           "description": "JQuery, AngularJS, VueJS, ReactJS",
           "value": 70
         }
@@ -132,13 +132,13 @@
     },
     {
       "title": "Systèmes d'exploitation",
-      "skills": [
+      "items": [
         {
-          "label": "Windows",
+          "title": "Windows",
           "value": 60
         },
         {
-          "label": "Linux",
+          "title": "Linux",
           "description": "Debian, Raspbian",
           "value": 80
         }
@@ -146,9 +146,9 @@
     },
     {
       "title": "Langues",
-      "skills": [
+      "items": [
         {
-          "label": "Anglais",
+          "title": "Anglais",
           "description": "TOEIC 880pts",
           "value": 80
         }
