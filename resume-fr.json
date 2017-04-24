@@ -143,11 +143,19 @@
       ]
     }
   ],
-  "hobbies": [
+  "projects": [
     {
-      "title": "Développement de <a href=\"https://play.google.com/store/apps/details?id=com.ionicframework.pokequizz328623&hl=fr\">PokéQuizz</a>",
-      "description": "Une application Android créée avec Ionic2"
-    },
+      "title": "PokéQuizz",
+      "description": "Une application Android où il faut deviner les Pokemons grâce à leurs ombres.",
+      "link": "https://play.google.com/store/apps/details?id=com.ionicframework.pokequizz328623",
+      "skills": [
+        "Angular",
+        "Ionic",
+        "Typescript"
+      ]
+    }
+  ],
+  "hobbies": [
     {
       "title": "Nouvelles technologies",
       "description": "Technologies Web, Raspberry Pi"
