@@ -1,7 +1,7 @@
 {
   "profil": {
     "name": "Julien Usson",
-    "description": "Développeur Web Full Stack\n#Java #JavaScript #Angular #Ionic #VueJS #React\nClermont-Ferrand, France"
+    "description": "Développeur web Full Stack\n#Java #JavaScript #Angular #Ionic #VueJS #React\nClermont-Ferrand, France"
   },
   "experiences": [
     {
@@ -9,7 +9,7 @@
       "items": [
         {
           "date": "Septembre 2016 - Septembre 2017",
-          "title": "Développeur d'application web et mobile en alternace à CGI, Clermont-Ferrand",
+          "title": "Développeur d'application web et mobile en alternance à CGI, Clermont-Ferrand",
           "skills": [
             "Groovy",
             "Grails",
@@ -91,13 +91,13 @@
       "date": 2014
     },
     {
-      "title": "Baccalauréat Scientifique mention assez bien au lycée Sévigné Saint-Louis d’Issoire",
+      "title": "Baccalauréat Scientifique mention assez bien, lycée Sévigné Saint-Louis, Issoire",
       "date": 2012
     }
   ],
   "skills": [
     {
-      "title": "Technologies Web",
+      "title": "Technologies web",
       "items": [
         {
           "title": "JavaScript/ES6",
@@ -158,11 +158,11 @@
   "hobbies": [
     {
       "title": "Nouvelles technologies",
-      "description": "Technologies Web, Raspberry Pi"
+      "description": "Technologies web, Raspberry Pi"
     },
     {
-      "title": "Musique Metal",
-      "description": "Musique, concerts, festivals"
+      "title": "Musique métal",
+      "description": "Concerts, festivals"
     }
   ],
   "contact": {
