@@ -146,7 +146,7 @@
   "projects": [
     {
       "title": "PokéQuizz",
-      "description": "Une application Android où il faut deviner les Pokemons grâce à leurs ombres.",
+      "description": "Une application Android où les Pokemons doivent être retrouvés grâce à leurs ombres.",
       "link": "https://play.google.com/store/apps/details?id=com.ionicframework.pokequizz328623",
       "skills": [
         "Angular",
