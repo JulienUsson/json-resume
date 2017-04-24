@@ -5,6 +5,31 @@
   },
   "experiences": [
     {
+      "title": "Emploi",
+      "items": [
+        {
+          "date": "Septembre 2016 - Septembre 2017",
+          "title": "Développeur d'application web et mobile en alternace à CGI, Clermont-Ferrand",
+          "skills": [
+            "Groovy",
+            "Grails",
+            "Javascript",
+            "Ionic",
+            "Angular"
+          ]
+        },
+        {
+          "date": "Juillet 2014 - Août 2014",
+          "title": "Développeur Java à l’institut de médecine du travail de Clermont-Ferrand",
+          "skills": [
+            "Java",
+            "Swing",
+            "XML"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Freelance",
       "items": [
         {
@@ -26,31 +51,6 @@
             "JQuery",
             "AngularJS",
             "Bootstrap"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Emploi",
-      "items": [
-        {
-          "date": "Septembre 2016 - Septembre 2017",
-          "title": "Développeur d'application web et mobile en alternace à CGI, Clermont-Ferrand",
-          "skills": [
-            "Groovy",
-            "Grails",
-            "Javascript",
-            "Ionic",
-            "Angular"
-          ]
-        },
-        {
-          "date": "Juillet 2014 - Août 2014",
-          "title": "Développeur Java à l’institut de médecine du travail de Clermont-Ferrand",
-          "skills": [
-            "Java",
-            "Swing",
-            "XML"
           ]
         }
       ]
@@ -100,33 +100,24 @@
       "title": "Technologies Web",
       "items": [
         {
-          "title": "Java/JEE",
-          "description": "Grails, Tapestry, Spring, Hibernate",
-          "value": 80
-        },
-        {
-          "title": "PHP5",
-          "description": "CodeIgniter",
-          "value": 75
-        },
-        {
-          "title": "NodeJS",
-          "value": 25
-        },
-        {
-          "title": "SQL",
-          "description": "MySQL, Oracle",
-          "value": 80
+          "title": "JavaScript/ES6",
+          "description": "JQuery, AngularJS, VueJS, ReactJS"
         },
         {
           "title": "HTML5/CSS3/SASS",
-          "description": "Bootstrap",
-          "value": 70
+          "description": "Bootstrap"
         },
         {
-          "title": "JavaScript/ES6",
-          "description": "JQuery, AngularJS, VueJS, ReactJS",
-          "value": 70
+          "title": "Java/JEE",
+          "description": "Grails, Tapestry, Spring, Hibernate"
+        },
+        {
+          "title": "PHP5",
+          "description": "CodeIgniter"
+        },
+        {
+          "title": "SQL",
+          "description": "MySQL, Oracle"
         }
       ]
     },
@@ -134,13 +125,11 @@
       "title": "Systèmes d'exploitation",
       "items": [
         {
-          "title": "Windows",
-          "value": 60
+          "title": "Windows"
         },
         {
           "title": "Linux",
-          "description": "Debian, Raspbian",
-          "value": 80
+          "description": "Debian, Raspbian"
         }
       ]
     },
@@ -149,13 +138,16 @@
       "items": [
         {
           "title": "Anglais",
-          "description": "TOEIC 880pts",
-          "value": 80
+          "description": "TOEIC 880pts"
         }
       ]
     }
   ],
   "hobbies": [
+    {
+      "title": "Développement de <a href=\"https://play.google.com/store/apps/details?id=com.ionicframework.pokequizz328623&hl=fr\">PokéQuizz</a>",
+      "description": "Une application Android créée avec Ionic2"
+    },
     {
       "title": "Nouvelles technologies",
       "description": "Technologies Web, Raspberry Pi"
@@ -163,10 +155,6 @@
     {
       "title": "Musique Metal",
       "description": "Musique, concerts, festivals"
-    },
-    {
-      "title": "Jeux",
-      "description": "Bowling, Billard, Laser Game, Airsoft, ..."
     }
   ],
   "contact": {
