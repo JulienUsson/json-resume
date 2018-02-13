@@ -8,6 +8,17 @@
       "title": "Emploi",
       "items": [
         {
+          "date": "Octobre 2017",
+          "title": "Développeur d'application web et mobile à Agaetis, Clermont-Ferrand",
+          "skills": [
+            "React",
+            "Redux",
+            "Recompose",
+            "Javascript",
+            "Java"
+          ]
+        },
+        {
           "date": "Septembre 2016 - Septembre 2017",
           "title": "Développeur d'application web et mobile en alternance à CGI, Clermont-Ferrand",
           "skills": [
