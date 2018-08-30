@@ -12,9 +12,11 @@
           "title": "Développeur d'application web et mobile à Agaetis, Clermont-Ferrand",
           "skills": [
             "React",
+            "React Native'
             "Redux",
             "Recompose",
             "Javascript",
+            "NodeJS",
             "Java"
           ]
         },
@@ -112,35 +114,38 @@
       "items": [
         {
           "title": "JavaScript/ES6",
-          "description": "JQuery, AngularJS, VueJS, ReactJS"
+          "description": "ReactJS, Express"
         },
         {
-          "title": "HTML5/CSS3/SASS",
-          "description": "Bootstrap"
+          "title": "HTML/CSS/CSS-in-JS",
+          "description": "JSS, Material-UI"
         },
         {
-          "title": "Java/JEE",
-          "description": "Grails, Tapestry, Spring, Hibernate"
+          "title": "Java",
+          "description": "Spring, Hibernate"
         },
         {
-          "title": "PHP5",
-          "description": "CodeIgniter"
+          "title": "SGBD",
+          "description": "MongoDB, MySQL"
         },
         {
-          "title": "SQL",
-          "description": "MySQL, Oracle"
-        }
+          "title": "Ops",
+          "description": "Docker, Kubernetes, GitLab CI"
+        },
       ]
     },
     {
       "title": "Systèmes d'exploitation",
       "items": [
         {
+          "title": "MacOS"
+        },
+        {
           "title": "Windows"
         },
         {
           "title": "Linux",
-          "description": "Debian, Raspbian"
+          "description": "Debian, Raspbian, Ubuntu"
         }
       ]
     },
