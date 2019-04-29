@@ -21,6 +21,16 @@
           ]
         },
         {
+          "date": "Septembre 2018",
+          "title": "Enseignement de l'intégration continue pour le web, 2ème année F5, Isima, Clermont-Ferrand",
+          "skills": [
+            "HTLM/CSS",
+            "Javascript",
+            "NodeJS",
+            "CircleCI"
+          ]
+        },
+        {
           "date": "Septembre 2016 - Septembre 2017",
           "title": "Développeur d'application web et mobile en alternance à CGI, Clermont-Ferrand",
           "skills": [
